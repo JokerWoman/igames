@@ -1,14 +1,13 @@
 <template>
 <div>
-  <h1> iGames </h1>  
-  <h5> BEM-VINDO </h5>  
+  <h1> PageNotFound </h1>  
 </div>
 </template>
 
 <script>
 
 export default {
-  name: 'Home',
+  name: 'PageNotFound',
   components: {
    
   }
